@@ -1,18 +1,16 @@
-‰æ‘œ“Ç‚İ‚İ(cv2.imread)
+ref
+
+ç”»åƒèª­ã¿è¾¼ã¿(cv2.imread)
 https://algorithm.joho.info/programming/python-opencv-cv2-imread/
 
-Python OpenCV‚ÌŠî‘b@‰æ‘œ‚Ì“Ç‚İ‚İiÃ~‰æj 
+Python OpenCVã®åŸºç¤ã€€ç”»åƒã®èª­ã¿è¾¼ã¿ï¼ˆé™æ­¢ç”»ï¼‰ 
 http://peaceandhilightandpython.hatenablog.com/entry/2015/12/23/214840
 
-•½ŠŠ‰»
-https://www.blog.umentu.work/python-opencv3‚ÅgaussianƒIƒyƒŒ[ƒ^‚ğg‚Á‚Ä•½ŠŠ‰»/
+å¹³æ»‘åŒ–
+https://www.blog.umentu.work/python-opencv3ã§gaussianã‚ªãƒšãƒ¬ãƒ¼ã‚¿ã‚’ä½¿ã£ã¦å¹³æ»‘åŒ–/
 
-haarcascadesƒŠƒ“ƒN
+haarcascadesãƒªãƒ³ã‚¯
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 
-OpenCV‚ğg‚Á‚½Šç”F¯iHaar-like“Á’¥•ª—ŞŠíj
+OpenCVã‚’ä½¿ã£ãŸé¡”èªè­˜ï¼ˆHaar-likeç‰¹å¾´åˆ†é¡å™¨ï¼‰
 https://qiita.com/hitomatagi/items/04b1b26c1bc2e8081427
-
-```errorŒ´ˆö```
-Ewindows‚Å‰æ‘œ‚ğ“Ç‚İ‚Ş‚ÆƒpƒX‚ª’Ê‚ç‚È‚¢
-¨input.jpg‚Íinput.jpg.jpg‚É‚È‚Á‚Ä‚¢‚é
